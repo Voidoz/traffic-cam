@@ -1,0 +1,21 @@
+{
+  "name": "traffic-cam",
+  "version": "1.0.0",
+  "description": "A Node.JS module to track and export data on what is being accessed on your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voidoz/traffic-cam.git"
+  },
+  "author": { "name" : "Barney Rubble",
+              "email" : "oscarhurst0504@gmail.com",
+              "url" : "http://oscarhurst.me/" },
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/Voidoz/traffic-cam/issues"
+  },
+  "homepage": "https://github.com/Voidoz/traffic-cam#readme"
+}
